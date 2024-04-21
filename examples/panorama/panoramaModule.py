@@ -5,8 +5,6 @@ from djitellopy import Tello
 import cv2
 import time
 
-global img
-
 
 def panorama_full_clockwise(tello_name):
     tello = tello_name
